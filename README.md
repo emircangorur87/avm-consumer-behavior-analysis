@@ -2,7 +2,7 @@
 
 Quantitative market-research case study examining how brand choice, accessibility, shopping habits, experience factors and marketing communication relate to consumer purchase behavior in shopping malls.
 
-![Project cover](assets/project-cover.png)
+![Project cover](project-cover.png)
 
 > **Portfolio note:** This was completed as an academic team project at Istanbul University. This repository presents a privacy-safe portfolio edition and does not claim sole authorship of the original research.
 
@@ -37,10 +37,9 @@ How do brand preference, usage habits, accessibility, experience factors, market
 
 ## Repository contents
 
-- [`portfolio/avm-consumer-behavior-case-study.pdf`](portfolio/avm-consumer-behavior-case-study.pdf) — concise, recruiter-friendly case study
-- [`portfolio/avm-consumer-behavior-case-study.pptx`](portfolio/avm-consumer-behavior-case-study.pptx) — editable presentation
-- [`docs/methodology.md`](docs/methodology.md) — research design and test map
-- [`docs/privacy-and-authorship.md`](docs/privacy-and-authorship.md) — privacy and team-project disclosure
+- [`avm-consumer-behavior-case-study.pdf`](avm-consumer-behavior-case-study.pdf) — concise, recruiter-friendly case study
+- [`methodology.md`](methodology.md) — research design and test map
+- [`privacy-and-authorship.md`](privacy-and-authorship.md) — privacy and team-project disclosure
 
 ## Limitations
 
